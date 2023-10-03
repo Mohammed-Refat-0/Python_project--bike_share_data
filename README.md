@@ -15,14 +15,14 @@ most common trip from start to end (i.e., most frequent combination of start sta
 
 #3 Trip duration\
 total travel time\
-average travel time\
+average travel time
 
 #4 User info\
 counts of each user type\
 counts of each gender (only available for NYC and Chicago)\
 earliest, most recent, most common year of birth (only available for NYC and Chicago)\
 ### Data source and files
-The Datasets\
+Datasets:\
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core of six (6) columns:\
 Start Time (e.g., 2017-01-01 00:07:57)\
 End Time (e.g., 2017-01-01 00:20:53)\
@@ -33,3 +33,6 @@ User Type (Subscriber or Customer)\
 The Chicago and New York City files also have the following two columns:\
 Gender\
 Birth Year
+
+Files:\
+[bikeshare.py](https://github.com/Mohammed-Refat-0/bike_share_data_project/blob/main/bikeshare.py): 
