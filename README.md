@@ -1,7 +1,7 @@
 # Python Project 
 ## Statistics program for Bike-Share provider
 ### introduction
-In this project, I used data provided by Motivate, a bike-share system provider for many major cities in the United States, to write a python program to uncover bike-share usage patterns. I will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+In this project, I used data provided by Motivate, a bike-share system provider for many major cities in the United States, to write a Python program to uncover bike-share usage patterns. I will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 ### Statistics Computed by the program
 #1 Popular times of travel (i.e., occurs most often in the start time)\
 most common month\
@@ -35,4 +35,11 @@ Gender\
 Birth Year
 
 Files:\
-[bikeshare.py](https://github.com/Mohammed-Refat-0/bike_share_data_project/blob/main/bikeshare.py): 
+[bikeshare.py](https://github.com/Mohammed-Refat-0/bike_share_data_project/blob/main/bikeshare.py): python program\
+[chicago.zip](https://github.com/Mohammed-Refat-0/bike_share_data_project/blob/main/chicago.zip): zip folder containing the .csv Chicago dataset\
+[new_york_city.zip](https://github.com/Mohammed-Refat-0/bike_share_data_project/blob/main/new_york_city.zip): zip folder containing the .csv New York dataset\
+[washington.zip](https://github.com/Mohammed-Refat-0/bike_share_data_project/blob/main/washington.zip): zip folder containing the .csv Washington dataset\
+### Dependencies
+Python 3
+### How to run
+clone this repository in your local machine, unzip the datasets folder into the same folder of the bikeshare.py program, and run bikeshare.py to get the results
