@@ -42,4 +42,4 @@ Files:\
 ### Dependencies
 Python 3
 ### How to run
-clone this repository in your local machine, unzip the datasets into the same folder of the bikeshare.py program, and run bikeshare.py to get the results
+clone this repository in your local machine, install the dependencies, unzip the datasets into the same folder of the bikeshare.py program, and run bikeshare.py to get the results
